@@ -2,5 +2,9 @@
   {
     "package": "snapforge",
     "url": "https://github.com/AgentForge-Labs/snapforge-r"
+  },
+  {
+    "package": "agentrelay",
+    "url": "https://github.com/AgentForge-Labs/agentrelay-r"
   }
 ]
