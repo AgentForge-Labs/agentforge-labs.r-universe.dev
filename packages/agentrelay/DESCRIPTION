@@ -1,0 +1,17 @@
+Package: agentrelay
+Type: Package
+Title: Hosted AgentRelay Client
+Version: 0.1.0
+Authors@R: person("AgentForge", "Labs", email = "support@web-tasarimci.com", role = c("aut", "cre", "cph"))
+Description: A credential-safe client for the hosted AgentRelay service. It
+    provides message, reply, file, inbox, and generic public-v1 helpers while
+    keeping authentication, idempotency, quota, and error semantics aligned
+    with the managed AgentRelay API.
+License: AGPL-3
+URL: https://agentforge-labs.r-universe.dev/agentrelay, https://relay.web-tasarimci.com
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports:
+    curl (>= 5.0.0),
+    jsonlite (>= 1.8.0)
+NeedsCompilation: no
