@@ -6,7 +6,7 @@
   },
   {
     "package": "snapforge",
-    "url": "https://github.com/AgentForge-Labs/agentforge-labs.r-universe.dev",
-    "subdir": "packages/snapforge"
+    "url": "https://github.com/AgentForge-Labs/site-screenshot-public_commercial",
+    "subdir": "packages/sdk-r"
   }
 ]
